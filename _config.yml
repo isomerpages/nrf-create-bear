@@ -1,6 +1,6 @@
 title: Title
 url: https://www.create.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon.ico
 colors:
   primary-color: "#800000"
   secondary-color: "#4372d6"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.deqt4bb4eq7sw.amplifyapp.com
 prod: https://master.deqt4bb4eq7sw.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/logo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
