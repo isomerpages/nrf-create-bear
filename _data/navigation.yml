@@ -1,6 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: BEARS
     url: /about-create/research-centres/bears/
+  - title: Contact Us
+    url: /contact-us/
