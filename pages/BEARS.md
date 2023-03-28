@@ -48,3 +48,22 @@ SinBeRISE seeks to harness solar energy using novel, inexpensive approaches. It 
 There are about 60 researchers in SinBeRISE, consisting of post-doctoral fellows, research associates, and PhD students.  Leading the research teams are a total of 33 Principal Investigators (PIs), 7 of whom hold faculty joint appointments at UCB, 18 at NTU, and 8 at NUS. All the PIs are tenured faculty in their home institutions.
 
 [Download the SinBerBEST Factsheet](/files/1sinberbest-(nrf-edited).pdf)
+![](/images/Screenshot%202023-03-28%20141707.png)
+
+[Download the SinBeRISE Factsheet](/files/2Singapore-Berkeley%20Research%20Initiative.pdf)
+![](/images/Screenshot%202023-03-28%20141933.png)
+
+**Contact Us**  
+General Line: +65 6601 3195  
+Website: [http://bears.berkeley.edu/](http://sinberbest.berkeley.edu/)
+
+**Where to Find Us**  
+CREATE Tower  
+1 Create Way, #11-00  
+Singapore 138602
+
+  
+  
+
+**Publications**  
+[https://sinberbest.berkeley.edu/archive/publications](http://sinberbest.berkeley.edu/archive/publications)
