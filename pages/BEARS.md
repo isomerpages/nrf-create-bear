@@ -5,6 +5,7 @@ description: ""
 ---
 ![](/images/beaimg1.jpg)
 ![](/images/bearimg2.jpg)
+
 ABOUT BEARS
 ===========
 
