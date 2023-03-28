@@ -45,3 +45,5 @@ SinBeRISE seeks to harness solar energy using novel, inexpensive approaches. It 
 3.  Integration of the first 2 thrusts into functional systems and devices
 
 There are about 60 researchers in SinBeRISE, consisting of post-doctoral fellows, research associates, and PhD students.  Leading the research teams are a total of 33 Principal Investigators (PIs), 7 of whom hold faculty joint appointments at UCB, 18 at NTU, and 8 at NUS. All the PIs are tenured faculty in their home institutions.
+
+[Download the SinBerBEST Factsheet](/files/1sinberbest-(nrf-edited).pdf)
