@@ -61,8 +61,6 @@ Website: [http://bears.berkeley.edu/](http://sinberbest.berkeley.edu/)
 CREATE Tower  
 1 Create Way, #11-00  
 Singapore 138602
-
-  
   
 
 **Publications**  
