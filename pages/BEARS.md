@@ -3,10 +3,6 @@ title: BEARS
 permalink: /about-create/research-centres/bears/
 description: ""
 ---
-
-
-
-
 ![](/images/beaimg1.jpg)
 ![](/images/bearimg2.jpg)
 
@@ -59,7 +55,8 @@ There are about 60 researchers in SinBeRISE, consisting of post-doctoral fellows
 
 **Contact Us**  
 General Line: +65 6601 3195  
-Website: [http://bears.berkeley.edu/](http://sinberbest.berkeley.edu/)
+Website:
+[http://bears.berkeley.edu/](http://sinberbest.berkeley.edu/](http://bears.berkeley.edu/](http://sinberbest.berkeley.edu/)
 
 **Where to Find Us**  
 CREATE Tower  
