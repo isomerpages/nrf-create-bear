@@ -1,5 +1,4 @@
 collections:
   bears:
     output: true
-    order:
-      - BEARS.md
+    order: []
