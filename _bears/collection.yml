@@ -2,4 +2,4 @@ collections:
   bears:
     output: true
     order:
-      - About BEARS.md
+      - BEARS.md
