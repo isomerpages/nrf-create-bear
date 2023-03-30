@@ -1,0 +1,4 @@
+collections:
+  about-bears:
+    output: true
+    order: []
