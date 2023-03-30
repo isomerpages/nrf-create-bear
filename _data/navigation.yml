@@ -1,5 +1,7 @@
 logo: /images/logo.png
 links:
+  - title: About BEARS
+    collection: about-bears
   - title: BEARS
     url: /about-create/research-centres/bears/
   - title: Contact Us
