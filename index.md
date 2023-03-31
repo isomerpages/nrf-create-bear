@@ -13,7 +13,7 @@ sections:
         - title: Click here for CREATE Home Page
           description: ""
           url: https://staging.d1q14glctguzyi.amplifyapp.com/
-        - title: ""
+        - title: About Bears
           description: ""
-          url: /privacy/
+          url: /about-create/research-centres/bears/
 ---
