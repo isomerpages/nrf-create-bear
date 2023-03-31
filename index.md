@@ -10,7 +10,7 @@ sections:
       title: BEARS
       background: /images/hero-banner.png
       key_highlights:
-        - title: CREATE Home Page
+        - title: Click here for CREATE Home Page
           description: ""
           url: https://staging.d1q14glctguzyi.amplifyapp.com/
         - title: ""
