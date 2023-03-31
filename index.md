@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: BEARS
-      subtitle: The Berkeley Education Alliance for Research in Singapore (BEARS) center
+      subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
