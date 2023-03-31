@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: BEARS
 description: An Isomer site of the Singapore Government
 image: /images/logo.png
 permalink: /
