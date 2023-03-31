@@ -8,18 +8,12 @@ notification: ""
 sections:
   - hero:
       title: BEARS
-      subtitle: Hero subtitle
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: CREATE Home Page
+          description: ""
+          url: https://staging.d1q14glctguzyi.amplifyapp.com/
+        - title: ""
+          description: ""
           url: /privacy/
 ---
