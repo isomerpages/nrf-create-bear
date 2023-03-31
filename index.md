@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: BEARS
-      background: /images/hero-banner.png
+      background: /images/bearimg2.jpg
       key_highlights:
         - title: Click here for CREATE Home Page
           description: ""
