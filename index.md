@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Click here for CREATE Home Page
           description: ""
-          url: https://staging.d1q14glctguzyi.amplifyapp.com/
+          url: https://www.create.edu.sg/
         - title: About Bears
           description: ""
           url: /about-create/research-centres/bears/
